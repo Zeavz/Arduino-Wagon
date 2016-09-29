@@ -11,10 +11,10 @@ This wagon shoots light beams!!
 
 Included is:
 
-  .apk file = the android app file
+.apk file = the android app file
 
-  .ino file = the arduino code
+.ino file = the arduino code
 
-  .aia file = MIT App Inventor code file
+.aia file = MIT App Inventor code file
 
 you can use the .aia file to change up the app code and recompile to get your own version of the apk.
