@@ -5,9 +5,9 @@ This project is still in progress.
 The Arduino Wagon is a bluetooth enabled remote controlled car using an arduino card.
 This wagon shoots light beams!!
 
------------------------------------------------------
-More to come on parts and more in depth descriptions!
------------------------------------------------------
+
+** More to come on parts and more in depth descriptions! **
+
 
 Included is:
 
